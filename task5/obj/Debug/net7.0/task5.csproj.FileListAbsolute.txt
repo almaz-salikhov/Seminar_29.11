@@ -1,0 +1,15 @@
+/Users/almazsalikhov/Documents/IT/GitEdu/Seminar_29.11/task5/bin/Debug/net7.0/task5
+/Users/almazsalikhov/Documents/IT/GitEdu/Seminar_29.11/task5/bin/Debug/net7.0/task5.deps.json
+/Users/almazsalikhov/Documents/IT/GitEdu/Seminar_29.11/task5/bin/Debug/net7.0/task5.runtimeconfig.json
+/Users/almazsalikhov/Documents/IT/GitEdu/Seminar_29.11/task5/bin/Debug/net7.0/task5.dll
+/Users/almazsalikhov/Documents/IT/GitEdu/Seminar_29.11/task5/bin/Debug/net7.0/task5.pdb
+/Users/almazsalikhov/Documents/IT/GitEdu/Seminar_29.11/task5/obj/Debug/net7.0/task5.csproj.AssemblyReference.cache
+/Users/almazsalikhov/Documents/IT/GitEdu/Seminar_29.11/task5/obj/Debug/net7.0/task5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/almazsalikhov/Documents/IT/GitEdu/Seminar_29.11/task5/obj/Debug/net7.0/task5.AssemblyInfoInputs.cache
+/Users/almazsalikhov/Documents/IT/GitEdu/Seminar_29.11/task5/obj/Debug/net7.0/task5.AssemblyInfo.cs
+/Users/almazsalikhov/Documents/IT/GitEdu/Seminar_29.11/task5/obj/Debug/net7.0/task5.csproj.CoreCompileInputs.cache
+/Users/almazsalikhov/Documents/IT/GitEdu/Seminar_29.11/task5/obj/Debug/net7.0/task5.dll
+/Users/almazsalikhov/Documents/IT/GitEdu/Seminar_29.11/task5/obj/Debug/net7.0/refint/task5.dll
+/Users/almazsalikhov/Documents/IT/GitEdu/Seminar_29.11/task5/obj/Debug/net7.0/task5.pdb
+/Users/almazsalikhov/Documents/IT/GitEdu/Seminar_29.11/task5/obj/Debug/net7.0/task5.genruntimeconfig.cache
+/Users/almazsalikhov/Documents/IT/GitEdu/Seminar_29.11/task5/obj/Debug/net7.0/ref/task5.dll

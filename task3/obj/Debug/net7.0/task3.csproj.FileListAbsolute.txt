@@ -1,0 +1,15 @@
+/Users/almazsalikhov/Documents/IT/GitEdu/Seminar_29.11/task3/obj/Debug/net7.0/task3.csproj.AssemblyReference.cache
+/Users/almazsalikhov/Documents/IT/GitEdu/Seminar_29.11/task3/obj/Debug/net7.0/task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/almazsalikhov/Documents/IT/GitEdu/Seminar_29.11/task3/obj/Debug/net7.0/task3.AssemblyInfoInputs.cache
+/Users/almazsalikhov/Documents/IT/GitEdu/Seminar_29.11/task3/obj/Debug/net7.0/task3.AssemblyInfo.cs
+/Users/almazsalikhov/Documents/IT/GitEdu/Seminar_29.11/task3/obj/Debug/net7.0/task3.csproj.CoreCompileInputs.cache
+/Users/almazsalikhov/Documents/IT/GitEdu/Seminar_29.11/task3/bin/Debug/net7.0/task3
+/Users/almazsalikhov/Documents/IT/GitEdu/Seminar_29.11/task3/bin/Debug/net7.0/task3.deps.json
+/Users/almazsalikhov/Documents/IT/GitEdu/Seminar_29.11/task3/bin/Debug/net7.0/task3.runtimeconfig.json
+/Users/almazsalikhov/Documents/IT/GitEdu/Seminar_29.11/task3/bin/Debug/net7.0/task3.dll
+/Users/almazsalikhov/Documents/IT/GitEdu/Seminar_29.11/task3/bin/Debug/net7.0/task3.pdb
+/Users/almazsalikhov/Documents/IT/GitEdu/Seminar_29.11/task3/obj/Debug/net7.0/task3.dll
+/Users/almazsalikhov/Documents/IT/GitEdu/Seminar_29.11/task3/obj/Debug/net7.0/refint/task3.dll
+/Users/almazsalikhov/Documents/IT/GitEdu/Seminar_29.11/task3/obj/Debug/net7.0/task3.pdb
+/Users/almazsalikhov/Documents/IT/GitEdu/Seminar_29.11/task3/obj/Debug/net7.0/task3.genruntimeconfig.cache
+/Users/almazsalikhov/Documents/IT/GitEdu/Seminar_29.11/task3/obj/Debug/net7.0/ref/task3.dll
