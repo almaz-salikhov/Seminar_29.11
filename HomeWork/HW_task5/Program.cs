@@ -5,7 +5,7 @@ int N = Convert.ToInt32(Console.ReadLine());
 
 if(N < 0)
 {
-	Console.WriteLine("Введено отрицательное число, оно будет преобразовано");
+    Console.WriteLine("Введено отрицательное число, оно будет преобразовано");
     N = -N;
 }
 /*
